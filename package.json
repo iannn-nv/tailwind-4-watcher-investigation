@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-v4-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./site.css -o ./main.css --watch",
+    "build": "npx @tailwindcss/cli -i ./site.css -o ./main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.6",
+    "tailwindcss": "^4.1.6"
+  }
+}
