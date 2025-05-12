@@ -1,0 +1,3 @@
+# Question is...
+
+Why the watch command doesn't work? The CLI doesn't watch file changes. 
