@@ -1,6 +1,1 @@
 @import "tailwindcss";
-@source inline("underline");
-
-.test {
-    position: relative;
-}
